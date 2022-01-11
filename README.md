@@ -1,9 +1,9 @@
-# MINERIADEDATOS
+# MINERIA DE DATOS
 
 Datos Academicos
 
 
-Escuela Profecional: Ingenieria Informatica y de Sistemas
+Escuela Profesional: Ingenieria Informatica y de Sistemas
 
 Docente:
 
