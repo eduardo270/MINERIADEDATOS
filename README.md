@@ -30,4 +30,4 @@ CARLOS EDUARDO INCA CRUZ
 
 |INFORME |||
 | ----------------- |----------------- |----------------- |
-| INFORME        | informe, notebook, dataset |[link](https://github.com/eduardo270/MINERIADEDATOS/tree/main/INFORME)|
+| INFORME K-means        | K means en pyspark: informe, notebook y dataset |[link](https://github.com/eduardo270/MINERIADEDATOS/tree/main/INFORME)|
