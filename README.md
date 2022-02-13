@@ -14,7 +14,7 @@ CARLOS FERNANDO MONTOYA CUBAS
 CARLOS EDUARDO INCA CRUZ
 
 
-## Laboratorios:
+## Laboratorios en pyspark:
 
 SEGUNDA PARCIAL
 
