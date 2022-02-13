@@ -18,7 +18,7 @@ CARLOS EDUARDO INCA CRUZ
 
 SEGUNDA PARCIAL
 
--Laboratorio 1: Introduccion a Pyspark [DM1_Laboratorio.ipynb](https://github.com/eduardo270/MINERIADEDATOS/blob/main/ACTIVIDADESSEGUNDAPARCIAL/DM1_Laboratorio.ipynb)
+-Laboratorio 1: Introduccion a Pyspark [Lab01.ipynb](https://github.com/eduardo270/MINERIADEDATOS/blob/main/ACTIVIDADESSEGUNDAPARCIAL/DM1_Laboratorio.ipynb)
 
 TERCERA PARCIAL
 
