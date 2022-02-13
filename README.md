@@ -16,7 +16,11 @@ CARLOS EDUARDO INCA CRUZ
 
 ## Laboratorios:
 
+SEGUNDA PARCIAL
+
 -Laboratorio 1 [link](https://github.com/eduardo270/MINERIADEDATOS/blob/main/ACTIVIDADESSEGUNDAPARCIAL/DM1_Laboratorio.ipynb)
+
+TERCERA PARCIAL
 
 -Laboratorio 2 [link](https://github.com/eduardo270/MINERIADEDATOS/blob/main/ACTIIVIDADES_TERCERA_PARCIAL/Lab02.ipynb)
 
